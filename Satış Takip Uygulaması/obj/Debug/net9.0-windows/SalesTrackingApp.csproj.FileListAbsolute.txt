@@ -1,0 +1,14 @@
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\bin\Debug\net9.0-windows\SalesTrackingApp.exe
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\bin\Debug\net9.0-windows\SalesTrackingApp.deps.json
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\bin\Debug\net9.0-windows\SalesTrackingApp.runtimeconfig.json
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\bin\Debug\net9.0-windows\SalesTrackingApp.dll
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\bin\Debug\net9.0-windows\SalesTrackingApp.pdb
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\SalesTrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\SalesTrackingApp.AssemblyInfoInputs.cache
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\SalesTrackingApp.AssemblyInfo.cs
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\SalesTrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\SalesTrackingApp.dll
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\refint\SalesTrackingApp.dll
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\SalesTrackingApp.pdb
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\SalesTrackingApp.genruntimeconfig.cache
+C:\Users\omrby\OneDrive\Masaüstü\SalesTrackingApp\obj\Debug\net9.0-windows\ref\SalesTrackingApp.dll

@@ -1,0 +1,30 @@
+[
+  {
+    "TcNo": "124124124",
+    "CustomerName": "\u00D6mer Bayar",
+    "Phone": "912125125",
+    "Items": [
+      {
+        "Barcode": "125125125125",
+        "ProductName": "gofet",
+        "Price": "30"
+      }
+    ],
+    "TotalAmount": "30",
+    "SaleDate": "2025-04-22T23:59:17.0943389+03:00"
+  },
+  {
+    "TcNo": "123124125",
+    "CustomerName": "\u00D6mer",
+    "Phone": "125125125",
+    "Items": [
+      {
+        "Barcode": "12515125125",
+        "ProductName": "kola",
+        "Price": "55"
+      }
+    ],
+    "TotalAmount": "55",
+    "SaleDate": "2025-04-22T23:59:52.9432907+03:00"
+  }
+]
